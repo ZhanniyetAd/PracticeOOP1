@@ -7,6 +7,8 @@ public class Main {
         System.out.println("hello");
 
 
+        System.out.println("hello");
+        System.out.println("hello");
 
         Scanner in = new Scanner(System.in);
 
